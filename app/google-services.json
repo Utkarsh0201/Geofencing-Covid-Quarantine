@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75199215970",
+    "project_id": "geofencing-b6efd",
+    "storage_bucket": "geofencing-b6efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75199215970:android:1c91cb871f1f98668c943b",
+        "android_client_info": {
+          "package_name": "com.sunil.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75199215970-0ig6da52kr2aialkti0qr74rgdm92ov8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg03bNIE09WQbDUXW21FdUKFCBXZ5nbAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75199215970-0ig6da52kr2aialkti0qr74rgdm92ov8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
